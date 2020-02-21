@@ -1,0 +1,23 @@
+{
+  "name": "spa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yangfan789789/spa.git"
+  },
+  "keywords": [],
+  "author": "yangfan789789",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yangfan789789/spa/issues"
+  },
+  "homepage": "https://github.com/yangfan789789/spa#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
